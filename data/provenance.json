@@ -1,0 +1,29 @@
+{
+  "dataset": "Bank Marketing, bank-additional-full variant",
+  "repository": "UCI Machine Learning Repository",
+  "source_url": "https://archive.ics.uci.edu/dataset/222/bank+marketing",
+  "download_url": "https://archive.ics.uci.edu/static/public/222/bank+marketing.zip",
+  "doi": "10.24432/C5K306",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "metadata_verified_date_utc": "2026-10-07",
+  "source_order": "Dictionary states chronological from May 2008 to November 2010; exact dates absent",
+  "rows": 41188,
+  "input_columns": 20,
+  "target_column": "y",
+  "delimiter": ";",
+  "raw_bytes_modified": false,
+  "raw_rows_deleted": 0,
+  "files": [
+    {
+      "name": "bank-additional-full.csv",
+      "bytes": 5834924,
+      "sha256": "74adfc578bf77a7ff4bb1ba4a9f8709d9e3c6907342959c2c8416847e0afb4d8"
+    },
+    {
+      "name": "bank-additional-names.txt",
+      "bytes": 5458,
+      "sha256": "10045462a4c026f858dffa159370c4270510230c1fc63c6c91ca51bba4b3df26"
+    }
+  ]
+}
