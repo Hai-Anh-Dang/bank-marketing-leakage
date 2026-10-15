@@ -20,7 +20,7 @@ This project uses the `bank-additional-full.csv` variant and its corresponding `
 
 Related study: Moro, S., Cortez, P., and Rita, P. (2014). *A data-driven approach to predict the success of bank telemarketing*. DOI [10.1016/j.dss.2014.03.001](https://doi.org/10.1016/j.dss.2014.03.001). Dataset licensing does not grant a blanket software licence for this project; see [attribution and use of AI](#attribution-and-use-of-ai).
 
-## Attribution and use of AI
+## Attribution
 
 This is a portfolio model-review investigation using the public UCI Bank Marketing dataset. Dataset credit and its related study are documented in [dataset licence and attribution](#dataset-licence-and-attribution).
 
