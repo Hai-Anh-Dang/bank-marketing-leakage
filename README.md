@@ -59,6 +59,6 @@ The runner starts a temporary kernel using its active Python interpreter, execut
 
 The notebook keeps all six charts embedded. The public `results/` folder retains the model-metric table, review predictions, two README charts and the consolidated summary. Full execution regenerates the other diagnostic tables, JSON records and four PNGs under ignored `.generated/`. Those optional files are not needed by `--check`. Optional notebook editing requires a Jupyter interface using the same environment.
 
-## Attribution and AI assistance
+## Attribution 
 
-Dataset authors are Sérgio Moro, Paulo Cortez and Paulo Rita. Related study: *A data-driven approach to predict the success of bank telemarketing* (2014), DOI [10.1016/j.dss.2014.03.001](https://doi.org/10.1016/j.dss.2014.03.001). AI assisted Python implementation, drafting and model review under the author's direction; all reported results come from executed code. [attribution and use of AI](data/README.md#attribution-and-use-of-ai) distinguishes dataset terms from the software-licence scope.
+Dataset authors are Sérgio Moro, Paulo Cortez and Paulo Rita. Related study: *A data-driven approach to predict the success of bank telemarketing* (2014), DOI [10.1016/j.dss.2014.03.001](https://doi.org/10.1016/j.dss.2014.03.001).
